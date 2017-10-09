@@ -5,7 +5,7 @@
         <classes>
             <class name="testing.MLTest">
                 <methods>
-                     <include name=""></include>
+                     <include name="search"></include>
                 </methods>
             </class>
         </classes>
