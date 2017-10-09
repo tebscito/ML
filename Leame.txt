@@ -1,0 +1,11 @@
+1- Obtener codigo de Github: https://github.com/tebscito/ML.git
+2- Abrir codigo con Intellij o IDE de preferencia
+3- Ejecutar archivo ml.xml
+
+Importante: asegurarse de tener el entorno Java 8 instalado.
+
+* Por default esta seteado para ejecutarse en navegador Chrome. Si desea probar con Firefox, cambiar 
+la linea 40 de la clase MLTest.java donde dice "CHROME" reemplazarlo por "FIREFOX"
+
+-.
+Autor: Esteban Candia
